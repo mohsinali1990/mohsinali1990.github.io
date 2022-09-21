@@ -1,0 +1,9 @@
+name: "Mohsins-website"
+output_dir: "."
+navbar:
+  title: "Mohsin's Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
