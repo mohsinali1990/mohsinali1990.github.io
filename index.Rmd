@@ -2,4 +2,6 @@
 title: "Mohsin's Website"
 ---
 
-Hello, World!
+Hi!
+
+My name is Mohsin Ali. I am a post-doc at Quantitative Genetics Group, Chinese academy of agricultural sciences (CAAS), Beijing. I am working with Dr. Huihui Li on genetic diversity and selection sweeps in synthetic-derived wheats and modern Pakistan spring wheat.
