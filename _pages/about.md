@@ -1,25 +1,24 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Institute of Crop Sciences (ICS), Chinese Academy of Agricultural Sciences (CAAS), Beijing, China.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: false
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: False  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Mohsin Ali. I am currently working as a Post-Doc researcher in the [Quantiative Genetics Group](https://isbreeding.caas.cn/) at Institute of Crop Sciences (ICS), Chinese Academy of Agricultural Sciences (CAAS), Beijing, China. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focuses on assessing genetic diversity in crop genetic resources using computational analyses. I had the very good fortune to be advised by [Prof. Dr. Jiankang Wang](https://isbreedingen.caas.cn/member/staff/294609.htm) during my Ph.D. I was also co-advised by [Dr. Luyan Zhang](https://isbreedingen.caas.cn/member/staff/294611.htm), [Dr. Awais Rasheed](http://www.qau.edu.pk/profile.php?id=804030) on my PhD research projects. After my Ph.D., I started Post-Doc with [Dr. Li Huihui](https://isbreedingen.caas.cn/member/staff/294610.htm) at ICS-CAAS. My Post-Doc research project involved genetic characterization, assement of genetic diversity, and identification of selection sweeps.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I’m very happy to talk about my research projects and sciences with you. Please feel free to PM me on Twitter (upper left corner).  
+<br/><br/>  
+# _This is personal GitHub webpage, created and maintained by myself_
