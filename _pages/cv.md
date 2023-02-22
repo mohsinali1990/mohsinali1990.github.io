@@ -24,7 +24,7 @@ nav_order: 2
 ### **Skills**
  
 - ***Programming and Software's related skills***
-    - R (Intermediate), Bash (Intermediate), Python (Beginner), TASSEL, EigenGWAS, plink, gcta, bedtools, Linux, etc.
+    - R (Intermediate), Bash (Intermediate), Python (Beginner), TASSEL, EigenGWAS, plink, gcta, bcftools, VCFtools, OS (Windows, Unix/Linux), etc.
 - ***Dry-lab skills***
     - GBS data analysis, Applied Quantitative Genetics, QTL Mapping, GWAS, Genomic Selection, etc.
 - ***Wet-lab skills***
