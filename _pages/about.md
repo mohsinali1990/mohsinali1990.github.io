@@ -25,6 +25,6 @@ Long story short, I did M.Phil with [Dr. Umar Masood Qureshi](https://www.qau.ed
 - Phenotype and genotype association studies (QTL, GWAS, GS)
 - Data visualization
 
-I’m very happy to talk about my research projects and sciences with you. Please feel free to PM me on ResearchGate.  
+I’m very happy to talk about my research projects and sciences with you. Please feel free to contact me via [email](mali1990@yahoo.com).  
 <br/><br/>  
 # _This is personal GitHub webpage, created and maintained by myself_
