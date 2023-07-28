@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Institute of Crop Sciences (ICS), Chinese Academy of Agricultural Sciences (CAAS), Beijing, China.
+subtitle: <a href='#'>Affiliations</a>. <sup>1</sup> Institute of Crop Sciences (ICS), Chinese Academy of Agricultural Sciences (CAAS), Beijing, China. <sup>2</sup> Nanfan Research Institute, CAAS, Sanya, Hainan, China
+
 
 profile:
   align: right
