@@ -8,6 +8,7 @@ nav_order: 1
 ---
 
 ### **Peer-reviewed Publications**
+- [Genome-wide association study for phosphate responsive root hair length and density in bread wheat](https://doi.org/10.1016/j.cpb.2023.100290) Maqbool S., Saeed F., Maqbool A., Khan M.I., **Ali M.**, Rasheed A., Xia X. and He Z. Current Plant Biology, 2023, 2214-6628
 - [Genome-wide association for heat tolerance at seedling stage in historical spring wheat cultivars](https://www.frontiersin.org/articles/10.3389/fpls.2022.972481/full) Khan M. I., Kainat Z., Maqbool S., Mehwish A., Ahmad S., Suleman H. M., Mahmood Z., **Ali M.**, Aziz A., Rasheed A. and Li H. *Frontiers in
 Plant Science*, 2022, 13.
 - [Genetic characterization of spring wheat germplasm for macromicroelements and trace metals](https://www.mdpi.com/2223-7747/11/16/2173) Morgounov A., Li H., Shepelev S., **Ali M.**, Flis P., Koksel H., Savin T. and Shamanin V. *Plants*, 2022, 11(16), 2173.
