@@ -9,7 +9,7 @@ nav_order: 2
 
 ### **Education and Research Experience**
 
-- **Post-Doc in Applied Quantiative Genetics**, [CAAS, Beijing, China](https://www.caas.cn/), 2020 - Present
+- **Post-Doc in Applied Quantiative Genetics**, [CAAS, Beijing, China](https://www.caas.cn/), 2020 - 2023
 - **PhD in Plant Breeding and Genetics**, [CAAS, Beijing, China](https://www.caas.cn/), 2017 - 2020
 - **M.Phil in Molecular Plant Breeding**, [Quaid-i-Azam University, Islamabad, Pakistan](http://qau.edu.pk/), 2014 - 2016
 - **Graduate Research Assistant**, NARC, Islamabad, Pakistan, 2014 - 2015
