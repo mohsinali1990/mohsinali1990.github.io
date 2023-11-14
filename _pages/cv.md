@@ -24,11 +24,11 @@ nav_order: 2
 
 ### **Skills**
  
-- ***Programming and Software's related skills***
+- **Programming and Software's related skills**
     - R (Intermediate), Bash (Advanced Beginner), Python (Beginner), TASSEL, EigenGWAS, plink, gcta, bcftools, VCFtools, OS (Windows, Unix/Linux), etc.
-- ***Dry-lab skills***
+- **Dry-lab skills**
     - GBS data analysis, Applied Quantitative Genetics, QTL Mapping, GWAS, Genomic Selection, etc.
-- ***Wet-lab skills***
+- **Wet-lab skills**
     -  DNA extractions, PCR, electrophoresis, SSR marker and KASP marker genotyping, etc.
 
 ### **Languages**
