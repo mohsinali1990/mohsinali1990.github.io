@@ -16,18 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Mohsin Ali, and I would like to provide an overview of my professional profile. I have recently completed my postdoctoral research and am currently working independently.
+I am a quantitative geneticist. My work focuses on using genomics and computational methods to accelerate crop improvement. Previously, I was a postdoctoral researcher at the Institute of Crop Sciences (ICS), Chinese Academy of Agricultural Sciences (CAAS), Beijing, China, working with [Dr. Li Huihui's](https://isbreedingen.caas.cn/member/staff/294610.htm). I completed my Ph.D. in Plant Breeding and Quantitative Genetics at ICS-CAAS under the supervision of [Prof. Dr. Jiankang Wang](https://isbreedingen.caas.cn/member/staff/294609.htm). My PhD research focused on evaluating the prediction accuracy of various genomic selection models using empirical and simulated data sets.
 
-Long story short, I obtained my M.Phil in Molecular Plant Breeding from the Department of Plant Sciences at Quaid-i-Azam University, Islamabad, Pakistan, collaborating with [Dr. Umar Masood Qureshi](https://www.qau.edu.pk/profile.php?id=804029) on a QTL identification project in wheat. This experience fueled my interest in quantitative genetics, prompting me to pursue a Ph.D. at Institute of Crop Sciences (ICS), Chinese Academy of Agricultural Sciences (CAAS), Beijing, China under the guidance of [Prof. Dr. Jiankang Wang](https://isbreedingen.caas.cn/member/staff/294609.htm).
+My research passion lies in association genetics (QTL, GWAS, GS), quantitative genetics and genomics. Using data analysis to understand and ultimately uncover the properties of genetic variation responsible for phenotypic variability has always been one of my career goals.
 
-During my Ph.D., I concentrated on genomic selection in wheat, evaluating prediction accuracy through empirical and simulated data. Subsequently, I undertook a Post-Doc with [Dr. Li Huihui's](https://isbreedingen.caas.cn/member/staff/294610.htm) Quantitative Genetics Group at ICS-CAAS in Beijing, focusing on genetic diversity and marker-trait associations in Pakistani wheat diversity panel.
-
-## Research Interests:
-
-- Wheat genetics and breeding
-- Applied Quantitative Genetics
-- Phenotype and genotype association studies (QTL, GWAS, GS)
-- Data wrangling and visualization
 
 I’m very happy to talk about my research projects and sciences with you. Please feel free to contact me via [email](mali1990@yahoo.com).  
 <br/><br/>  
