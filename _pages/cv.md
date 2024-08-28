@@ -32,4 +32,4 @@ nav_order: 2
     -  DNA extractions, PCR, electrophoresis, SSR marker and KASP marker genotyping, etc.
 
 ### **Languages**
-- Urdu (native), English (good), Deutsch (A1 level), Mandarin (HSK level 1)
+- Urdu (native), English (good), Deutsch (A2 level), Mandarin (HSK level 1)
