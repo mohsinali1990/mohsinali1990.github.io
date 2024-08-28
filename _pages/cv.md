@@ -5,6 +5,7 @@ title: CV (short version)
 nav: true
 nav_order: 2
 # cv_pdf: false
+social: true
 ---
 
 ### **Education and Research Experience**
