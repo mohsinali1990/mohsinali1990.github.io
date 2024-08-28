@@ -10,7 +10,7 @@ social: true
 
 ### **Peer-reviewed Publications**
 
-- [Marker-trait association analysis for easy fruit destemming and mechanical harvestability traits in New Mexican chile pepper (*Capsicum annuum* L.)](https://doi.org/10.3389/fhort.2024.1448159) Khokhar E.S., Lozada D.N., **Ali M.**, Khan M.I., Nourbakhsh S.S., and Walker S.  *Frontiers in Horticulture*, 2024
+- [Marker-trait association analysis for easy fruit destemming and mechanical harvestability traits in New Mexican chile pepper (Capsicum annuum L.)](https://doi.org/10.3389/fhort.2024.1448159) Khokhar E.S., Lozada D.N., **Ali M.**, Khan M.I., Nourbakhsh S.S., and Walker S.  *Frontiers in Horticulture*, 2024
 - [Smart Breeding Platform: a web-based tool for high-throughput population genetics, phenomics, and genomic selection](https://doi.org/10.1016/j.molp.2024.03.002) Li H., Li X., Zhang P., Feng Y., Mi J., Gao S., Sheng L., **Ali M.**, Yang Z., Li L., Fang W., Wang W., Qian Q., Gu F., and Zhou W. *Molecular Plant*, 2024
 - [Genome-wide association study for phosphate responsive root hair length and density in bread wheat](https://doi.org/10.1016/j.cpb.2023.100290) Maqbool S., Saeed F., Maqbool A., Khan M.I., **Ali M.**, Rasheed A., Xia X. and He Z. *Current Plant Biology*, 2023, 2214-6628
 - [Genome-wide association for heat tolerance at seedling stage in historical spring wheat cultivars](https://www.frontiersin.org/articles/10.3389/fpls.2022.972481/full) Khan M. I., Kainat Z., Maqbool S., Mehwish A., Ahmad S., Suleman H. M., Mahmood Z., **Ali M.**, Aziz A., Rasheed A. and Li H. *Frontiers in
