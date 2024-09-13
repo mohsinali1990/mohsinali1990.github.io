@@ -12,7 +12,7 @@ social: true
 
 #### **2024**
 - Khokhar E.S., Lozada D.N., **Ali M.,** Khan M.I., Nourbakhsh S.S., and Walker S. **Marker-trait association analysis for easy fruit destemming and mechanical harvestability traits in New Mexican chile pepper (*Capsicum annuum L.*).** *Frontiers in Horticulture*. [DOI: 10.3389/fhort.2024.1448159](https://doi.org/10.3389/fhort.2024.1448159)  
-- Li H., Li X., Zhang P., Feng Y., Mi J., Gao S., Sheng L., **Ali M.,** Yang Z., Li L., Fang W., Wang W., Qian Q., Gu F., and Zhou W. Smart Breeding Platform: a web-based tool for high-throughput population genetics, phenomics, and genomic selection. *Molecular Plant*. [DOI: 10.1016/j.molp.2024.03.002](https://doi.org/10.1016/j.molp.2024.03.002)  
+- Li H., Li X., Zhang P., Feng Y., Mi J., Gao S., Sheng L., **Ali M.,** Yang Z., Li L., Fang W., Wang W., Qian Q., Gu F., and Zhou W. **Smart Breeding Platform: a web-based tool for high-throughput population genetics, phenomics, and genomic selection.** *Molecular Plant*. [DOI: 10.1016/j.molp.2024.03.002](https://doi.org/10.1016/j.molp.2024.03.002)  
 
 #### **2023**
 - Maqbool S., Saeed F., Maqbool A., Khan M.I., **Ali M.,** Rasheed A., Xia X., and He Z. Genome-wide association study for phosphate-responsive root hair length and density in bread wheat. *Current Plant Biology*, 2214-6628. [DOI: 10.1016/j.cpb.2023.100290](https://doi.org/10.1016/j.cpb.2023.100290)  
