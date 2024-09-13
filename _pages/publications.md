@@ -11,7 +11,7 @@ social: true
 ### **Peer-reviewed Publications**
 
 #### **2024**
-- Khokhar E.S., Lozada D.N., **Ali M.,** Khan M.I., Nourbakhsh S.S., and Walker S. Marker-trait association analysis for easy fruit destemming and mechanical harvestability traits in New Mexican chile pepper (*Capsicum annuum L.*). *Frontiers in Horticulture*. [DOI: 10.3389/fhort.2024.1448159](https://doi.org/10.3389/fhort.2024.1448159)  
+- Khokhar E.S., Lozada D.N., **Ali M.,** Khan M.I., Nourbakhsh S.S., and Walker S. **Marker-trait association analysis for easy fruit destemming and mechanical harvestability traits in New Mexican chile pepper (*Capsicum annuum L.*).** *Frontiers in Horticulture*. [DOI: 10.3389/fhort.2024.1448159](https://doi.org/10.3389/fhort.2024.1448159)  
 - Li H., Li X., Zhang P., Feng Y., Mi J., Gao S., Sheng L., **Ali M.,** Yang Z., Li L., Fang W., Wang W., Qian Q., Gu F., and Zhou W. Smart Breeding Platform: a web-based tool for high-throughput population genetics, phenomics, and genomic selection. *Molecular Plant*. [DOI: 10.1016/j.molp.2024.03.002](https://doi.org/10.1016/j.molp.2024.03.002)  
 
 #### **2023**
