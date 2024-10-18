@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: About Me
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. <sup>1</sup> Independent Researcher
 
@@ -8,7 +8,7 @@ subtitle: <a href='#'>Affiliations</a>. <sup>1</sup> Independent Researcher
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: false
 
 news: False  # includes a list of news items
@@ -27,9 +27,6 @@ My research passion is rooted in:
 - **Quantitative Genetics & Genomics**: understanding the complexities of genetic variation responsible for phenotypic variability
 - **Association Genetics**: including **Quantitative Trait Loci (QTL)** mapping and **GWAS**
 - **Genomic Selection (GS)**: estimation of molecular marker–based breeding values of plants for the trait of interest
-
-### Let's Connect
-I am always open to discussing about my research projects and sciences in the field of ***Plant Genetics and Genomics***. Please feel free to reach out via [email](mali1990@yahoo.com).
 
 <br/><br/>  
 # _This is personal GitHub webpage, created and maintained by myself_
